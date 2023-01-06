@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.b409a146.css",
-    "main.js": "/portfolio-react/static/js/main.06085a2e.js",
+    "main.js": "/portfolio-react/static/js/main.70848948.js",
     "static/js/787.a2cb61a6.chunk.js": "/portfolio-react/static/js/787.a2cb61a6.chunk.js",
+    "static/media/CV.pdf": "/portfolio-react/static/media/CV.542de849e96c3781bb32.pdf",
     "static/media/calculator.jpg": "/portfolio-react/static/media/calculator.1baeffb27be6b731d659.jpg",
-    "static/media/CV.pdf": "/portfolio-react/static/media/CV.c0c4015e9e8417835145.pdf",
     "static/media/clickcounter.png": "/portfolio-react/static/media/clickcounter.b743df4e11d23cee57e7.png",
     "static/media/me.png": "/portfolio-react/static/media/me.5bcc00b65635c77d3fea.png",
     "static/media/wordle-clone.jpg": "/portfolio-react/static/media/wordle-clone.5f7acbd91ac94c4b1317.jpg",
@@ -12,11 +12,11 @@
     "static/media/about-me.jpg": "/portfolio-react/static/media/about-me.75752b3e4b30f46dd41d.jpg",
     "index.html": "/portfolio-react/index.html",
     "main.b409a146.css.map": "/portfolio-react/static/css/main.b409a146.css.map",
-    "main.06085a2e.js.map": "/portfolio-react/static/js/main.06085a2e.js.map",
+    "main.70848948.js.map": "/portfolio-react/static/js/main.70848948.js.map",
     "787.a2cb61a6.chunk.js.map": "/portfolio-react/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b409a146.css",
-    "static/js/main.06085a2e.js"
+    "static/js/main.70848948.js"
   ]
 }
